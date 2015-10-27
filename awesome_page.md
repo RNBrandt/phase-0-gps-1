@@ -8,3 +8,5 @@ I still have a few questions re. Git origin, but I'll check that out on my own t
 We still need to read the documentation about git. We'll check out the tutorials.
 
 ReubenNBrandt@gmail.com
+
+We have fun today.
